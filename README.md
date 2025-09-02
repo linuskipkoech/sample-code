@@ -33,7 +33,7 @@ This is a sample code from projects I've worked on, demonstrating advanced geosp
 - **Backend**: Django 2.1+ with PostgreSQL/PostGIS
 - **Geospatial**: GeoServer, PostGIS spatial functions
 - **Processing**: Python, GeoPandas, Matplotlib
-- **Infrastructure**: AWS SES, Redis (recommended)
+- **Infrastructure**: AWS SES,
 - **Security**: Keycloak integration, CSRF protection
 
 ## Code Highlights

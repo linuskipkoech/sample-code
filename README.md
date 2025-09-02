@@ -61,7 +61,7 @@ server_url = f"{base_url}?service=WFS&request=GetFeature&typeName={workspace}:{l
 ```
 
 ## Use Cases
-- **Redistricting Applications**: Community of Interest mapping and plan creation
+- **Redistricting Applications**: Community of Interest mapping and Districts plan creation
 - **Geospatial Web Services**: Dynamic map generation and data export
 - **Civic Technology**: Public engagement tools for redistricting processes
 - **Data Analysis**: Demographic analysis and compliance checking

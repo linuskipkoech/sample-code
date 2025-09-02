@@ -1,0 +1,1 @@
+Sample code from some of the projects I have worked on. redistap.py is a sample Django project code that focuses on geooperations of the data. It show cases the intergration of different geography data processing ranging from POSTGIS to Geoserver operations. 
